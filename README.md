@@ -1,2 +1,4 @@
 # halftone
-Simple Halftoning interactive app
+
+Simple Halftoning Interactive [App](https://madbrain.github.io/halftone/)
+
